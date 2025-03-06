@@ -5,7 +5,7 @@ Code and data for reproducing the [preprint](https://arxiv.org/abs/2502.13220): 
 `environment.yml` contains the full conda environment. The primary dependencies are `torch-geometric==2.1.0` (& supporting packages like `torch-scatter==2.0.9`), `pytorch=1.13.0`, and `rdkit=2022.03.2`.
 
 ## Downloading data and trained model weights
-Before reproducing any results, you will need to download the datasets (target properties and conformers) from this Dropbox link: .
+Before reproducing any results, you will need to download the datasets (target properties and conformers) from this Dropbox link: https://www.dropbox.com/scl/fo/afrzp54g2wlhi1a4l0mdh/AOK1rmK9foRIqQn9e86BAUI?rlkey=epk8o0rse2ino7tble9xnxwzk&st=jicowj7m&dl=0
 
 This Dropbox also includes all the trained models and inference results that were reported in the preprint. Due to the numerous models trained and evaluated, the total size of this data is ~30GB.
 
