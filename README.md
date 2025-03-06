@@ -7,7 +7,7 @@ Code and data for reproducing the [preprint](https://arxiv.org/abs/2502.13220): 
 ## Downloading data and trained model weights
 Before reproducing any results, you will need to download the datasets (target properties and conformers) from this Dropbox link: .
 
-This Dropbox also includes all the trained models and inference results that were reported in the preprint. Due to the numerous models trained and evaluated, the total size of this data is ~50GB.
+This Dropbox also includes all the trained models and inference results that were reported in the preprint. Due to the numerous models trained and evaluated, the total size of this data is ~30GB.
 
 ## Retraining
 
